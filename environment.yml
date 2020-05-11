@@ -1,0 +1,7 @@
+name: energy-analysis
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - plotly
+  - ipywidgets
