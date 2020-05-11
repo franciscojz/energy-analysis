@@ -1,6 +1,7 @@
 name: energy-analysis
 dependencies:
   - python=3.7
+  - xlrd
   - numpy
   - pandas
   - plotly
